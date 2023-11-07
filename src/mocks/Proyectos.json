@@ -1,0 +1,92 @@
+{
+    "1": {
+        "id": 1,
+        "title": "El Eclipse de los Sentidos.",
+        "description": "Afiche realizado para 'Arte único' auspiciado por Fernet Branca.",
+        "category": "Afiches",
+        "images": [
+            "/assets/afiches/P1.png"
+        ]
+    },
+    "2": {
+        "id": 2,
+        "title": "Munn",
+        "description": "Proyecto de promoción de obras gráficas.",
+        "category": "Afiches",
+        "images": [
+            "/assets/afiches/P2.png"
+        ]
+    },
+    "3": {
+        "id": 3,
+        "title": "Desafiando el estigma. ",
+        "description": "Promoción para evento sobre patologías sociales en el foco.",
+        "category": "Afiches",
+        "images": [
+            "/assets/afiches/P3.png"
+        ]
+    },
+    "4": {
+        "id": 4,
+        "title": "La Peña",
+        "description": "Flyer publicitario para presentación en vivo del espectáculo.",
+        "category": "Afiches",
+        "images": [
+            "/assets/afiches/P4.png"
+        ]
+    },
+    "5": {
+        "id": 5,
+        "title": "Charlemos",
+        "description": "'CHAT' fue diseñado de manera exclusiva para un evento que se destacó por su enfoque en abordar abiertamente temas cruciales para los jóvenes, como la salud mental y la educación sexual. Su identidad visual buscó transmitir una sensación de frescura y apertura, reflejando así la naturaleza innovadora y accesible de los temas discutidos en el evento.",
+        "category": "Creación de identidades",
+        "images": [
+            "/assets/identidades/P1-1.png",
+            "/assets/identidades/P1-2.png",
+            "/assets/identidades/P1-3.png",
+            "/assets/identidades/P1-4.png",
+            "/assets/identidades/P1-5.png"
+        ]
+    },
+    "6": {
+        "id": 6,
+        "title": "Siempre unidos",
+        "description": "La identidad visual de Alberdi fue creada específicamente para representar al Centro Vecinal del barrio del mismo nombre, situado en la ciudad de Córdoba, Argentina. A través de un diseño audaz y distintivo, se buscó reflejar el profundo amor que la comunidad tenía por este barrio, que guarda las huellas y memorias de innumerables personas que han pasado por él a lo largo del tiempo.",
+        "category": "Creación de identidades",
+        "images": [
+            "/assets/identidades/P2-1.png",
+            "/assets/identidades/P2-2.png",
+            "/assets/identidades/P2-3.png"
+        ]
+    },
+    "7": {
+        "id": 7,
+        "title": "Baucis",
+        "description": "",
+        "category": "Diseño de editorial",
+        "images": [
+            "/assets/editorial/P1.png",
+            "/assets/editorial/P1-2.png"
+        ]
+    },
+    "8": {
+        "id": 8,
+        "title": "Reflejo de la patria",
+        "description": "",
+        "category": "Diseño de editorial",
+        "images": [
+            "/assets/editorial/P2.png",
+            "/assets/editorial/P2-2.png"
+        ]
+    },
+    "9": {
+        "id": 9,
+        "title": "Reflejo de la patria",
+        "description": "",
+        "category": "Diseño de editorial",
+        "images": [
+            "/assets/editorial/P3.png",
+            "/assets/editorial/P3-2.png"
+        ]
+    }
+}
